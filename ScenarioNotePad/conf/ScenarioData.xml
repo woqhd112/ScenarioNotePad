@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<app>
+<scenario name="테스트용시나리오", sequence="1">
+	<timeline>
+	</timeline>
+	<notepad>
+	</notepad>
+</scenario>
+</app>
